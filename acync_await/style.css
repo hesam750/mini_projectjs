@@ -1,0 +1,30 @@
+body {
+    background: #f8f9fa;
+    src: url(/BYekan.ttf) format('truetype');
+    font-family: 'BYekan', sans-serif;
+    text-align: right;
+  }
+  
+  .container {
+    margin-top: 60px;
+  }
+  
+  #result {
+    background: white;
+    padding: 25px;
+    border-radius: 15px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.05);
+    margin-top: 30px;
+    line-height: 2;
+  }
+  
+  button {
+    font-size: 1.2rem;
+  }
+  
+  .spinner-border {
+    width: 2rem;
+    height: 2rem;
+    margin-left: 10px;
+  }
+  
